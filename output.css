@@ -553,3 +553,19 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.h-screen {
+  height: 100vh;
+}
+
+.bg-main-orange {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 132 130 / var(--tw-bg-opacity));
+}
+
+.alfa-slab-one-regular {
+  font-family: "Alfa Slab One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+  
