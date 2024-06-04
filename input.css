@@ -4,6 +4,9 @@
 @tailwind components;
 @tailwind utilities;
 li {
-  padding-left: 20px;
+  margin-bottom: 1.25rem;
+  margin-top: 1.563rem;
+  padding-left: 10px;
 }
+
   
